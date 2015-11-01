@@ -1,6 +1,11 @@
 # ElementaryOS_config
 Simple "TODO" list for each new installation of ElementaryOS on my laptop
 
+### FadeIn
+
+*	Download [FadeIn](http://www.fadeinpro.com/page.pl?content=download)
+*	Install the software with ```sudo dpkg --install <thepackage.deb>```
+
 ### Redshift
 
 *	Download [Redshift](https://github.com/jonls/redshift/releases)
