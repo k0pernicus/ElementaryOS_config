@@ -1,7 +1,7 @@
 # ElementaryOS_config
 Simple "TODO" list for each new installation of ElementaryOS on my laptop
 
-### FadeIn
+### FadeIn - for scriptwriting
 
 *	Download [FadeIn](http://www.fadeinpro.com/page.pl?content=download)
 *	Install the software with ```sudo dpkg --install <thepackage.deb>```
