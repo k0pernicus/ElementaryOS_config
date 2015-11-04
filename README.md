@@ -79,6 +79,8 @@ Simple "TODO" list after each new installation of ElementaryOS
 
 ## <a name="utilities"></a>Utilities
 
+### Confort
+
 #### Redshift
 
 *	Download [Redshift](https://github.com/jonls/redshift/releases)
@@ -86,3 +88,5 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	```./configure && ./make && sudo ./make install```
 *	Copy the redshift configuration file (root of this folder - for French guys) in ```~/.config/```
 *	Run the redshift program with ```/usr/local/bin/redshift-gtk```
+
+### Productivity
