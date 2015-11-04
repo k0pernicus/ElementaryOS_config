@@ -115,6 +115,13 @@ Simple "TODO" list after each new installation of ElementaryOS
 
 ### <a name="productivity"></a> Productivity
 
+#### TLP (Power manager)
+
+*	Please to install the community PPA on your system: ```sudo add-apt-repository ppa:linrunner/tlp```
+*	Update: ```sudo apt-get update``` 
+*	Install **tlp** and **powertop**: ```sudo apt-get install tlp tlp-rdw powertop```
+*	Active **tlp** with ```sudo tlp start```
+
 #### GPG
 
 *	Install the software with ```sudo apt-get install gnupg2```
