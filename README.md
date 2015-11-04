@@ -112,3 +112,8 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	Run the redshift program with ```/usr/local/bin/redshift-gtk```
 
 ### Productivity
+
+#### GPG
+
+*	Install the software with ```sudo apt-get install gnupg2```
+*	Import all your private & public keys (in a ```keys``` directory): ```for key in keys/; do gpg --import $key; done```
