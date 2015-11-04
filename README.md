@@ -57,6 +57,10 @@ Simple "TODO" list after each new installation of ElementaryOS
 
 ## <a name="social_network_clients"></a>Social Network clients
 
+#### Hangups - Hangouts client in your console
+
+*	Use pip to install **hangups**: ```sudo pip3 install hangups```
+
 #### Reditr - Reddit Linux client
 
 *	Please to install ```libudev0``` on:
