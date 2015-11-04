@@ -22,7 +22,7 @@ Simple "TODO" list after each new installation of ElementaryOS
 #### Atom
 
 *	Make sure that **nodeJS** is installed with ```sudo apt-get install nodejs```
-*	Download the 1.0.19 version of [Atom](https://github.com/atom/atom/releases/tag/v1.0.19) - the current 1.1.0 release does'nt work at all with ElementaryOS. If you don't want to download and install the latest version of Atom each time:
+*	Download the version 1.0.19 of [Atom](https://github.com/atom/atom/releases/tag/v1.0.19) - the current release (1.1.0) does'nt work at all with ElementaryOS. If you don't want to download and install the latest version of Atom each time:
 	*	```sudo add-apt-repository ppa:webupd8team/atom```
 	*	```sudo apt-get update```
 	*	```sudo apt-get install atom```
