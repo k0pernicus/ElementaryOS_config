@@ -81,6 +81,28 @@ Simple "TODO" list after each new installation of ElementaryOS
 
 ### Confort
 
+#### Elementary Tweaks
+
+*	Please to install the community PPA on the system: ``` sudo apt-add-repository ppa:versable/elementary-update```
+*	Update: ```sudo apt-get update```
+*	Install elementary-tweaks with ```sudo apt-get install elementary-tweaks```
+
+#### Numix
+
+*	Please to install the community PPA on your system: ```sudo add-apt-repository ppa:numix/ppa```
+*	Update: ```sudo apt-get update```
+*	Install numix with ```sudo apt-get install numix-icon-theme-circle```
+
+#### Transparent theme
+
+*	Please to install the community PPA on your system: ```sudo add-apt-repository ppa:yunnxx/elementary```
+*	Update: ```sudo apt-get update```
+*	Install transparent theme with ```sudo apt-get install elementary-transparent-theme```
+
+#### Super-wingpanel
+
+*	Install Super-wingpanel with ```sudo apt-get install super-wingpanel```
+
 #### Redshift
 
 *	Download [Redshift](https://github.com/jonls/redshift/releases)
