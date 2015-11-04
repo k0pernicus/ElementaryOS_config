@@ -37,6 +37,13 @@ Simple "TODO" list after each new installation of ElementaryOS
 #### Rust
 
 *	Install Rust with ```curl -sSf https://static.rust-lang.org/rustup.sh | sh```
+*	Install plugins for Atom:
+	*	```apm install cargo-test-runner```
+	*	```apm install language-rust```
+	*	```apm install linter```
+	*	```apm install linter-rust```
+	*	```apm install racer```
+	*	```apm install rust-api-docs-helper```
 
 #### OCaml
 
