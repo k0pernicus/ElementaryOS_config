@@ -1,12 +1,38 @@
 # ElementaryOS_config
 Simple "TODO" list after each new installation of ElementaryOS
 
-*	[Programming languages](#programming_languages)
+*	[Programming](#programming)
+	*	[Editors](#editors)
+	*	[Programming languages](#programming_languages)
 *	[Social Network clients](#social_network_clients)
 *	[Photography & Cinema](#photo_cinema)
 *	[Utilities](#utilities)
 
-## <a name="programming_languages"></a>Programming languages
+## <a name="programming"></a>Programming
+
+### <a name="editors"></a>Editors
+
+#### Vim
+
+*	Install Vim with ```sudo apt-get install vim```
+*	You can ask to your machine to make Vim as default editor for **git** with:
+	*	```git config --global core.editor "vim"```
+	*	```export GIT_EDITOR=vim```
+
+#### Atom
+
+*	Make sure that **nodeJS** is installed with ```sudo apt-get install nodejs```
+*	Download the 1.0.19 version of [Atom](https://github.com/atom/atom/releases/tag/v1.0.19) - the current 1.1.0 release does'nt work at all with ElementaryOS. If you don't want to download and install the latest version of Atom each time:
+	*	```sudo add-apt-repository ppa:webupd8team/atom```
+	*	```sudo apt-get update```
+	*	```sudo apt-get install atom```
+*	You can now install some cool stuff for this editor with **apm**, like:
+	*	```apm install minimap```
+	*	```apm install vim-mode```
+	*	```apm install editor-stats```
+	*	etc... 
+
+### <a name="programming_languages"></a>Programming languages
 
 #### Rust
 
