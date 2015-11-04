@@ -1,5 +1,5 @@
 # ElementaryOS_config
-Simple "TODO" list for each new installation of ElementaryOS on my laptop
+Simple "TODO" list after each new installation of ElementaryOS
 
 ### Reditr - Reddit Linux client
 
