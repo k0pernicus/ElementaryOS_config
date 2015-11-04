@@ -50,6 +50,11 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	Install ledit (to have some cool stuff on your terminal when you interprete Ocaml) with ```sudo apt-get install ledit```
 *	Install the Ocaml compiler with ```sudo apt-get install ocaml```
 
+#### Python
+
+*	Install pip2 with: ```sudo apt-get install python-pip```
+*	Install pip3 with: ```sudo apt-get install python3-pip```
+
 ## <a name="social_network_clients"></a>Social Network clients
 
 #### Reditr - Reddit Linux client
