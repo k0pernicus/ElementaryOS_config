@@ -17,6 +17,8 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	Install ledit (to have some cool stuff on your terminal when you interprete Ocaml) with ```sudo apt-get install ledit```
 *	Install the Ocaml compiler with ```sudo apt-get install ocaml```
 
+## <a name="social_network_clients"></a>Social Network clients
+
 ### Reditr - Reddit Linux client
 
 *	Please to install ```libudev0``` on:
@@ -26,10 +28,14 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	Download [Reditr](http://reditr.com/?page=download)
 *	Install the software with ```sudo dpkg --install <thepackage.deb>```
 
+## <a name="photo_cinema"></a>Photography & Cinema
+
 ### FadeIn - for scriptwriting
 
 *	Download [FadeIn](http://www.fadeinpro.com/page.pl?content=download)
 *	Install the software with ```sudo dpkg --install <thepackage.deb>```
+
+## <a name="utilities"></a>Utilities
 
 ### Redshift
 
