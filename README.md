@@ -5,6 +5,18 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	[Social Network clients](#social_network_clients)
 *	[Photography & Cinema](#photo_cinema)
 *	[Utilities](#utilities)
+
+## <a name="programming_languages"></a>Programming languages
+
+### Rust
+
+*	Install Rust with ```curl -sSf https://static.rust-lang.org/rustup.sh | sh```
+
+### OCaml
+
+*	Install ledit (to have some cool stuff on your terminal when you interprete Ocaml) with ```sudo apt-get install ledit```
+*	Install the Ocaml compiler with ```sudo apt-get install ocaml```
+
 ### Reditr - Reddit Linux client
 
 *	Please to install ```libudev0``` on:
