@@ -1,6 +1,10 @@
 # ElementaryOS_config
 Simple "TODO" list after each new installation of ElementaryOS
 
+*	[Programming languages](#programming_languages)
+*	[Social Network clients](#social_network_clients)
+*	[Photography & Cinema](#photo_cinema)
+*	[Utilities](#utilities)
 ### Reditr - Reddit Linux client
 
 *	Please to install ```libudev0``` on:
