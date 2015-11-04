@@ -7,6 +7,8 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	[Social Network clients](#social_network_clients)
 *	[Photography & Cinema](#photo_cinema)
 *	[Utilities](#utilities)
+	*	[Comfort](#comfort)
+	*	[Productivity](#productivity)
 
 ## <a name="programming"></a>Programming
 
@@ -77,9 +79,9 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	Download [FadeIn](http://www.fadeinpro.com/page.pl?content=download)
 *	Install the software with ```sudo dpkg --install <thepackage.deb>```
 
-## <a name="utilities"></a>Utilities
+## <a name="utilities"></a> Utilities
 
-### Confort
+### <a name="comfort"></a> Comfort
 
 #### Elementary Tweaks
 
@@ -111,7 +113,7 @@ Simple "TODO" list after each new installation of ElementaryOS
 *	Copy the redshift configuration file (root of this folder - for French guys) in ```~/.config/```
 *	Run the redshift program with ```/usr/local/bin/redshift-gtk```
 
-### Productivity
+### <a name="productivity"></a> Productivity
 
 #### GPG
 
