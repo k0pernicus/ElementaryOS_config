@@ -115,6 +115,17 @@ Simple "TODO" list after each new installation of ElementaryOS
 
 ### <a name="productivity"></a> Productivity
 
+#### Touchpad (for Zenbook UX303LN)
+
+*	Please to install the community PPA on your system: ```sudo add-apt-repository ppa:hanipouspilot/focaltech-dkms```
+*	Update: ```sudo apt-get update```
+*	Install **focaltech**: ```sudo apt-get install focaltech-dkms```
+
+*	To have multitouch on your touchpad, please to install **ginn** with:
+	*	```sudo apt-get install ginn```
+	*	Copy the ginn configuration file (wishes.xml) in ```/etc/```
+	*	Run the ginn program with ```ginn /etc/wishes.xml```
+
 #### Automatic installation of GPU drivers
 
 *	Run ```sudo ubuntu-drivers autoinstall```
