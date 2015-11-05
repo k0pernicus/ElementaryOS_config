@@ -115,6 +115,10 @@ Simple "TODO" list after each new installation of ElementaryOS
 
 ### <a name="productivity"></a> Productivity
 
+#### Automatic installation of GPU drivers
+
+*	Run ```sudo ubuntu-drivers autoinstall```
+
 #### TLP (Power manager)
 
 *	Please to install the community PPA on your system: ```sudo add-apt-repository ppa:linrunner/tlp```
