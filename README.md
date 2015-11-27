@@ -85,7 +85,7 @@ Simple "TODO" list after each new installation of ElementaryOS
 
 #### Elementary Tweaks
 
-*	Please to install the community PPA on the system: ``` sudo apt-add-repository ppa:versable/elementary-update```
+*	Please to install the community PPA on the system: ```sudo apt-add-repository ppa:mpstark/elementary-tweaks-daily``
 *	Update: ```sudo apt-get update```
 *	Install elementary-tweaks with ```sudo apt-get install elementary-tweaks```
 
